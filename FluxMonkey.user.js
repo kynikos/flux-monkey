@@ -7,8 +7,8 @@
 // @description Helper scripts for the Arch Linux BBS
 // @website https://github.com/kynikos/flux-monkey
 // @supportURL https://github.com/kynikos/flux-monkey/issues
-// @updateURL https://raw.github.com/kynikos/flux-monkey/master/scripts/WikiMonkey-ArchWiki.meta.js
-// @downloadURL https://raw.github.com/kynikos/flux-monkey/master/scripts/WikiMonkey-ArchWiki.user.js
+// @updateURL https://raw.github.com/kynikos/flux-monkey/master/FluxMonkey.meta.js
+// @downloadURL https://raw.github.com/kynikos/flux-monkey/master/FluxMonkey.user.js
 // @match https://bbs.archlinux.org/*
 // ==/UserScript==
 
